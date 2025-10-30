@@ -1,0 +1,45 @@
+.container {
+    width: 600px;
+    height: 500px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: auto;
+    text-align: center;
+    background-color: aqua;
+}
+
+h1 {
+    color: orange;
+    font-family: 'Arial', sans-serif;
+}
+input {
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    font-size: 16px;
+    padding: 5px;
+}
+button {
+    width: 150px;
+    height: 40px;
+    background-color: orange;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: darkorange;
+}
+#qrcode {
+    width: 250px;
+    color: black;
+    font-family: 'Arial', sans-serif;
+    margin: auto;
+}
+label {
+    font-size: 18px;
+    font-family: 'Arial', sans-serif;
+}
